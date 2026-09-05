@@ -1,7 +1,9 @@
-# flutter_practice
+# Flutter Practice
+
 Flutter Assignment
 
-#Assignment  1 SS
+## Assignment 1 - SS
+
 <p align="center">
-  <img src="SS/image.png" width="300"/>
+  <img src="demo_app/lib/SS/image.png" width="300"/>
 </p>
