@@ -5,5 +5,5 @@ Flutter Assignment
 ## Assignment 1 - SS
 
 <p align="center">
-  <img src="demo_app/lib/SS/image.png" width="30"/>
+  <img src="demo_app/lib/SS/image.png" width="200"/>
 </p>
