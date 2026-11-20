@@ -5,7 +5,11 @@ Flutter Assignment
 ## Assignment 1 - SS
 
 <p align="center">
-  <img src="demo_app/lib/SS/image.png" width="200"/>
+  <img src="Assignment\SS\Assignment1.png" width="200"/>
 </p>
 
 <h1>Assignment  2.1 SS</h1>
+
+<p align="center">
+  <img src="Assignment\SS\Assignment2.1.png" width="200"/>
+</p>
